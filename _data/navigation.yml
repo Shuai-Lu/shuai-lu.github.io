@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Research Topics"
+    url: /researchtopics/
+    
   - title: "Publications"
     url: /publications/
 
