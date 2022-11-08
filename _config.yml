@@ -84,15 +84,15 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Nanjing 210096, China"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # employer         :
+  # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bPCldVUAAAAJ&hl=en&oi=ao"
   email            : "shuai.lu.seu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Shuai-Lu"
   uri              : "https://ee.seu.edu.cn/2021/0910/c34584a383976/page.htm"
-  bitbucket        :
-  codepen          :
-  dribbble         :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
   flickr           :
   facebook         :
   foursquare       :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # linkedin         :
   orcid            : "https://orcid.org/0000-0002-5753-5327"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  # twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
