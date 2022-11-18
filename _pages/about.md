@@ -18,7 +18,7 @@ I can enroll 2-3 graduate students every year.
 
 ===============================================================================
 ## Looking forward to collaborating with curious and hardworking students! ##
-===============================================================================
+
 
 A data-driven personal website
 ======
