@@ -7,13 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received the B.S. degree in Smart Grid Information Engineering from Nanjing University of Science and Technology, Nanjing, China, in 2016 and the Ph.D. degree in Electrical Engineering from Southeast University, Nanjing, China, in 2021. From 2018 to 2019, I was a visiting scholar at the University of New South Wales, Sydney, Australia. I am currently a Lecturer at the School of Electrical Engineering, Southeast University.
-I was selected as an Outstanding Reviewer for IEEE Transactions on Power Systems in 2020. I am the Young Editor Board member of Applied Energy.
+I received the B.S. degree in Smart Grid Information Engineering from Nanjing University of Science and Technology, Nanjing, China, in 2016 and the Ph.D. degree in Electrical Engineering from Southeast University, Nanjing, China, in 2021. From 2018 to 2019, I was a visiting scholar at the University of New South Wales, Sydney, Australia.
+
+I am currently a Lecturer at the School of Electrical Engineering, Southeast University. I was selected as an Outstanding Reviewer for IEEE Transactions on Power Systems in 2020. I am now the Young Editor Board member of Applied Energy.
+
+
 Currently, my research interests include multi-energy systems, operations research, and data-driven techniques in power systems.
 
------------------------------------------------------------
-Hope to collaborate with curious and hardworking students!
------------------------------------------------------------
+I can enroll 2-3 graduate students every year.
+
+===============================================================================
+## Looking forward to collaborating with curious and hardworking students! ##
+===============================================================================
 
 A data-driven personal website
 ======
