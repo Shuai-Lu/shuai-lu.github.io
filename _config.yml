@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Shuai Lu"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shuai Lu"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, School of Electrical Engineering, Southeast University"
-  location         : "Nanjing 210096, China"
+  bio              : "Never Stand Still"
+  location         : "Nanjing, China"
   # employer         :
   # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bPCldVUAAAAJ&hl=en&oi=ao"
