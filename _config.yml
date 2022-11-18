@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=bPCldVUAAAAJ&hl=en&oi=ao"
   email            : "shuai.lu.seu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Shuai-Lu"
-  uri              : "https://ee.seu.edu.cn/2021/0910/c34584a383976/page.htm"
+  uri              : &Website "https://ee.seu.edu.cn/2021/0910/c34584a383976/page.htm"
   # bitbucket        :
   # codepen          :
   # dribbble         :
