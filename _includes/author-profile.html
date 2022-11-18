@@ -44,7 +44,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="shuai-lu.github.io/files/ShuaiLu_CV.pdf"><i class="fas fa-fw fa-graduation-cap"></i> [CV]</a></li>
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-graduation-cap"></i> [CV]</a></li>
       {% endif %}
 
       {% if author.keybase %}
@@ -116,7 +116,7 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      <font size="3"><a href = "shuai-lu.github.io/files/ShuaiLu_CV.pdf">[CV]</a></font><br>
+      <font size="3"><a href = "/files/ShuaiLu_CV.pdf">[CV]</a></font><br>
     </ul>
   </div>
 </div>
