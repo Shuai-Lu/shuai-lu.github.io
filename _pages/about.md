@@ -16,8 +16,9 @@ Currently, my research interests include multi-energy systems, operations resear
 
 I can enroll 2-3 graduate students every year.
 
-===============================================================================
-## Looking forward to collaborating with curious and hardworking students! ##
+
+Looking forward to collaborating with curious and hardworking students!
+
 
 
 A data-driven personal website
