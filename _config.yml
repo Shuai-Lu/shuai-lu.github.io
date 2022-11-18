@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuai Lu, Southeast University"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Shuai Lu"
 description              : &description "personal description"
